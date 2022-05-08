@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travello/static/css/main.073c9b0a.css",
+    "main.js": "/Travello/static/js/main.b2d3a978.js",
+    "index.html": "/Travello/index.html",
+    "main.073c9b0a.css.map": "/Travello/static/css/main.073c9b0a.css.map",
+    "main.b2d3a978.js.map": "/Travello/static/js/main.b2d3a978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b2d3a978.js"
+  ]
+}
